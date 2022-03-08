@@ -1,0 +1,1 @@
+{"version":2,"port":"8083","endpoints":[{"endpoint":"/endk","method":"GET","backend":[{"url_pattern":"/users","method":"GET","host":["https://jsonplaceholder.typicode.com/"]}]},{"endpoint":"/Ccomment","method":"GET","backend":[{"url_pattern":"/comments","method":"GET","host":["https://jsonplaceholder.typicode.com/"]}]}]}
